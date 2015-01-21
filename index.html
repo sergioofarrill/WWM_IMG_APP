@@ -1,0 +1,168 @@
+<!DOCTYPE HTML>
+
+<html ng-app="imgApp">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>WWMLA IMAGES</title>
+
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+	<!-- Bootstrap Galley -->
+	<link rel="stylesheet" href="http://blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
+	<!-- Font Awesome CSS -->
+		<link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="build/css/styles.css">
+</head>
+
+<body>
+<div class="container-fluid">
+	<header class="header clearfix navbar ">
+	
+				<div class="row">
+					<div class="col-md-10 col-md-offset-2">
+
+						<!-- header-left start -->
+						<!-- ================ -->
+						<div class="header-left clearfix">
+
+							<!-- logo -->
+							<div class="logo smooth-scroll">
+								<a href="#banner"><img id="logo" src="images/MC-LA-logowhite.png" alt="Worthy"></a>
+							</div>
+
+							<!-- name-and-slogan -->
+							<div class="site-name-and-slogan smooth-scroll">
+								<div class="site-name"><a href="#banner">WWM-IMAGES</a></div>
+							</div>
+						</div>
+						<!-- header-left end -->
+					</div>
+				</div>
+		</header>
+		<!-- header end -->
+
+		<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
+		<div id="blueimp-gallery" class="blueimp-gallery" data-use-bootstrap-modal="false">
+		    <!-- The container for the modal slides -->
+		    <div class="slides"></div>
+		    <!-- Controls for the borderless lightbox -->
+		    <h3 class="title"></h3>
+		    <a class="prev">‹</a>
+		    <a class="next">›</a>
+		    <a class="close">×</a>
+		    <a class="play-pause"></a>
+		    <ol class="indicator"></ol>
+		    <!-- The modal dialog, which will be used to wrap the lightbox content -->
+		    <div class="modal fade">
+		        <div class="modal-dialog">
+		            <div class="modal-content">
+		                <div class="modal-header">
+		                    <button type="button" class="close" aria-hidden="true">&times;</button>
+		                    <h4 class="modal-title"></h4>
+		                </div>
+		                <div class="modal-body next"></div>
+		                <div class="modal-footer">
+		                    <button type="button" class="btn btn-default pull-left prev">
+		                        <i class="glyphicon glyphicon-chevron-left"></i>
+		                        Previous
+		                    </button>
+		                    <button type="button" class="btn btn-primary next">
+		                        Next
+		                        <i class="glyphicon glyphicon-chevron-right"></i>
+		                    </button>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+
+		<!-- Container start -->
+		<!-- ================ -->
+		
+		 <div class="jumbotron">
+			<div id="mainPage" class="imgContainer" ng-controller="mainCtrl">
+					<div class="row">
+						<div class="col-md-8">
+								<h2>WWM LA </h2>
+								<p class="maintxt">
+								Thank you again for coming to stay with us in November. 
+								We had thousands of photographs from our three days of fun; these are our favorites. 
+								Enjoy, and see you on the Westside soon! 
+								</p>
+							</div>
+					</div>
+			</div>
+		 </div>
+		
+		<!-- incontainer end -->
+		<div class="row"></div>
+		<!-- IMG Menu start -->
+		<!-- ================ -->
+		
+			<div class="imgMenuContainer">
+					<div class="row">
+							<div class="col-md-3 col-md-offset-2" >
+								<a href="#/dayOne" title="">
+							  <button type="button" class="btn btn-primary btn-lg">
+							  	DAY ONE IMAGES
+							  </button></a>
+							</div>
+							<div class="col-md-3" >
+								<a href="#/dayTwo" title="">
+							  <button type="button" class="btn btn-primary btn-lg">
+							  	DAY TWO IMAGES
+							  </button></a>
+							</div>
+							<div class="col-md-3" >
+								<a href="#/dayThree" title="">
+							  <button type="button" class="btn btn-primary btn-lg">
+							  	DAY THREE IMAGES
+							  </button></a>
+							</div>
+					</div>
+			</div>
+		
+		<!-- imgmenu end -->
+	
+	
+
+	
+
+		<!-- MAIN ONTENT start -->
+		<!-- ================ -->
+		
+			<div class="imgMenuContainer">
+					<div class="row">
+						<div class="col-md-12" ng-view >
+							
+						</div>
+					</div>
+			</div>
+		
+		<!-- MAIN CONTENT end -->
+	</div><!--container-->
+	<footer class="footer">
+		<div class="container">
+			<p class="text-muted">Copyright 2015 M&amp;C SAATCHI LA</p>
+		</div><!--container-->
+	</footer>
+	
+<script type='text/javascript' src='http://code.jquery.com/jquery-latest.min.js'></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js"></script>
+<script src="https://code.angularjs.org/1.3.9/angular-route.min.js"></script>
+<script src="http://blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
+<script type='text/javascript' src='build/js/scripts.js'></script>
+<script type='text/javascript' src='build/js/app.js'></script>
+<script type='text/javascript' src='build/js/controllers.js'></script>
+
+</body>
+
+</html>

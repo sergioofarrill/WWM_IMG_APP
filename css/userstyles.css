@@ -1,0 +1,39 @@
+/* USERSTYLES */
+@font-face {
+    font-family: "MC SAATCHI HEAVY";
+    font-weight: normal;
+    font-style: normal;
+    src: url("../fonts/MC_SAATCHI_HEAVY.woff") format("woff");
+    src: url("../fonts/MC_SAATCHI_HEAVY.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "MC SAATCHI GROT";
+    font-weight: normal;
+    font-style: normal;
+    src: url("../fonts/M&CSaatchiGrot.woff") format("woff");
+    src: url("../fonts/M&CSaatchiGrot.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "MC SAATCHI GROT BOLD";
+    font-weight: normal;
+    font-style: normal;
+    src: url("../fonts/M&CSaatchiGrot53.woff") format("woff");
+    src: url("../fonts/M&CSaatchiGrot53.ttf") format("truetype");
+}
+
+.logo {background:black;}
+
+.imgThumb {overflow: hidden;}
+
+ul li {list-style: none;}
+
+.thumbnail {background-color: black; border-color: #111;}
+.center {margin: 0 auto; text-align: center;}
+.footer {
+
+  background-color: #000;
+}
+.jumbotron{background-color: black; padding: 30px 15px;}
+.imgMenuContainer {padding: 30px 15px; margin-bottom: 30px;}
