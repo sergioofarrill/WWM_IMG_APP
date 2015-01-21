@@ -23,9 +23,14 @@ grunt.initConfig({
 	    dest: 'build/js/controllers.js',
 	  },
 	  css: {
-	    src: ['css/main.css', 'css/animate.css', 'css/animations.css', 'css/userstyles.css', 'css/bootstrap-image-gallery.min.css'],
+	    src: ['css/main.css', 'css/animate.css', 'css/animations.css', 'css/userstyles.css', 'css/bootstrap-image-gallery.min.css','css/blueimp-gallery.min.css'],
 	    dest: 'build/css/styles.css',
 	  },
+	  gallery: {
+	  	src:['js/jquery.blueimp-gallery.min.js', 'js/blueimp-gallery-fullscreen.js'],
+	  	dest:'build/js/gallery.js',
+	  },
+	  
 	},
 	watch: {
 	  options: { 

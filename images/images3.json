@@ -21,7 +21,7 @@
         "age": 3, 
         "imageUrl": "images/FinalSelects/FinalDay3/Day-3-0011.jpg", 
         "name": "Day-3-0027", 
-        "snippet": "Something to say about the image."
+        "snippet": "Day 3"
     }, 
     {
         "age": 3, 
@@ -105,6 +105,30 @@
         "age": 3, 
         "imageUrl": "images/FinalSelects/FinalDay3/Day-3-0126.jpg", 
         "name": "Day-3-126", 
+        "snippet": "Day 3"
+    },
+    {
+        "age": 3, 
+        "imageUrl": "images/FinalSelects/FinalDay3/Day-3-0442.jpg", 
+        "name": "Day-3-442", 
+        "snippet": "Day 3"
+    },
+    {
+        "age": 3, 
+        "imageUrl": "images/FinalSelects/FinalDay3/Day-3-0443.jpg", 
+        "name": "Day-3-443", 
+        "snippet": "Day 3"
+    },
+    {
+        "age": 3, 
+        "imageUrl": "images/FinalSelects/FinalDay3/Day-3-0701.jpg", 
+        "name": "Day-3-701", 
+        "snippet": "Day 3"
+    },
+    {
+        "age": 3, 
+        "imageUrl": "images/FinalSelects/FinalDay3/Day-3-food1.jpg", 
+        "name": "Day-3-food1", 
         "snippet": "Day 3"
     },
     {
@@ -221,18 +245,7 @@
         "name": "Day-3-371", 
         "snippet": "Day 3"
     },
-    {
-        "age": 3, 
-        "imageUrl": "images/FinalSelects/FinalDay3/Day-3-0442.jpg", 
-        "name": "Day-3-442", 
-        "snippet": "Day 3"
-    },
-    {
-        "age": 3, 
-        "imageUrl": "images/FinalSelects/FinalDay3/Day-3-0443.jpg", 
-        "name": "Day-3-443", 
-        "snippet": "Day 3"
-    },
+    
     {
         "age": 3, 
         "imageUrl": "images/FinalSelects/FinalDay3/Day-3-0611.jpg", 
@@ -244,18 +257,7 @@
         "imageUrl": "images/FinalSelects/FinalDay3/Day-3-0661.jpg", 
         "name": "Day-3-661", 
         "snippet": "Day 3"
-    },
-    {
-        "age": 3, 
-        "imageUrl": "images/FinalSelects/FinalDay3/Day-3-0701.jpg", 
-        "name": "Day-3-701", 
-        "snippet": "Day 3"
-    },
-    {
-        "age": 3, 
-        "imageUrl": "images/FinalSelects/FinalDay3/Day-3-food1.jpg", 
-        "name": "Day-3-food1", 
-        "snippet": "Day 3"
     }
+    
     
 ]

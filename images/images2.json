@@ -13,45 +13,9 @@
     },
     {
         "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location3.jpg", 
-        "name": "Day-2-location3", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location4.jpg", 
-        "name": "Day-2-location4", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location5.jpg", 
-        "name": "Day-2-location5", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location6.jpg", 
-        "name": "Day-2-location6", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location7.jpg", 
-        "name": "Day-2-location7", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location8.jpg", 
-        "name": "Day-2-location8", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
         "imageUrl": "images/FinalSelects/FinalDay2/Day-2-0002.jpg", 
         "name": "Day-2-0027", 
-        "snippet": "Something to say about the image."
+        "snippet": "Day 2"
     }, 
     {
         "age": 2, 
@@ -145,6 +109,18 @@
     },
     {
         "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-0521.jpg", 
+        "name": "Day-2-521", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-0523.jpg", 
+        "name": "Day-2-523", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
         "imageUrl": "images/FinalSelects/FinalDay2/Day-2-0157.jpg", 
         "name": "Day-2-157", 
         "snippet": "Day 2"
@@ -183,6 +159,30 @@
         "age": 2, 
         "imageUrl": "images/FinalSelects/FinalDay2/Day-2-0239.jpg", 
         "name": "Day-2-239", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-food1.jpg", 
+        "name": "Day-2-food1", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-food2.jpg", 
+        "name": "Day-2-food2", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-food3.jpg", 
+        "name": "Day-2-food3", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-food4.jpg", 
+        "name": "Day-2-food4", 
         "snippet": "Day 2"
     },
     {
@@ -277,18 +277,6 @@
     },
     {
         "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-0521.jpg", 
-        "name": "Day-2-521", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-0523.jpg", 
-        "name": "Day-2-523", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
         "imageUrl": "images/FinalSelects/FinalDay2/Day-2-0544.jpg", 
         "name": "Day-2-544", 
         "snippet": "Day 2"
@@ -303,6 +291,42 @@
         "age": 2, 
         "imageUrl": "images/FinalSelects/FinalDay2/Day-2-0641.jpg", 
         "name": "Day-2-641", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location8.jpg", 
+        "name": "Day-2-location8", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location5.jpg", 
+        "name": "Day-2-location5", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location3.jpg", 
+        "name": "Day-2-location3", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location4.jpg", 
+        "name": "Day-2-location4", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location6.jpg", 
+        "name": "Day-2-location6", 
+        "snippet": "Day 2"
+    },
+    {
+        "age": 2, 
+        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-location7.jpg", 
+        "name": "Day-2-location7", 
         "snippet": "Day 2"
     },
     {
@@ -369,30 +393,6 @@
         "age": 2, 
         "imageUrl": "images/FinalSelects/FinalDay2/Day-2-0940.jpg", 
         "name": "Day-2-940", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-food1.jpg", 
-        "name": "Day-2-food1", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-food2.jpg", 
-        "name": "Day-2-food2", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-food3.jpg", 
-        "name": "Day-2-food3", 
-        "snippet": "Day 2"
-    },
-    {
-        "age": 2, 
-        "imageUrl": "images/FinalSelects/FinalDay2/Day-2-food4.jpg", 
-        "name": "Day-2-food4", 
         "snippet": "Day 2"
     },
     {
